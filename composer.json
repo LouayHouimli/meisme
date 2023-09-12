@@ -1,0 +1,5 @@
+{
+    "require": {
+        "elasticemail/elasticemail-php": "^4.0"
+    }
+}

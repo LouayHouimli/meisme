@@ -5,6 +5,7 @@
 </head>
 <body>
     <h1>Send Email</h1>
+    <?php echo $status_message; ?>
     <form action="send_email.php" method="post">
         <label for="recipient">Recipient Email:</label>
         <input type="email" id="recipient" name="recipient" required><br><br>
